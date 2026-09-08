@@ -1,9 +1,10 @@
 # Aufgaben "Legacy Systeme verbessern mit Agentic Coding" Workshoptage Rapperswil 2026
 
-7.1 Repo-Check
-7.2 Scoped Analysis der Applikation
-7.3 Metriken & Archäologie / Hotspots
-8. Optimierungsziel auswählen
+7. Analyse<br>
+  Repo-Check<br>
+  Scoped Analysis der Applikation<br>
+  Metriken & Archäologie / Hotspots
+8. Optimierungsziel auswählen<br>
   dazu nötig: Detailanalyse, Rückfragen
 9. Guardrails entwickeln
 10. Plan erstellen
