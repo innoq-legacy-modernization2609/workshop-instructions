@@ -11,7 +11,7 @@ sbx settings set kit.allowedSources '["docker.io/","github.com/docker/","github.
 
 sbx run \
   --kit "git+https://github.com/docker/sbx-kits-contrib.git#dir=pi" \
-  --kit "git+https://github.com:innoq-legacy-modernization2609/sbx-kits.git#dir=heribert-ai-gateway" \
+  --kit "git+https://github.com/innoq-legacy-modernization2609/sbx-kits.git#dir=heribert-ai-gateway" \
   pi
 ```
 
